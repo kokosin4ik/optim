@@ -68,7 +68,7 @@ Results of applying this algorithm with $$\alpha = 0.95$$ to the $$N$$ queens pu
 
 ![](../sa-example.svg)
 
-Results of running the code for $$N$$ from $$4$$ to $$30$$ and measuring the time it takes to find the solution avareged by 100 runs are below:
+Results of running the code for $$N$$ from $$4$$ to $$40$$ and measuring the time it takes to find the solution avareged by 100 runs are below:
 
 ![](../sa-runs.svg)
 
